@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(221, 221, 221);
+    width: 80%;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 { 
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+p { 
+    color: black;
+    font-size: 14px;
+} 
+
+h2 {
+    background-color: gray;
+    font-size: 24px;
+    color: white;
+    border-bottom: solid 3px black;
+    padding: 5px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+ul { 
+    padding-left: 0;
+}
+
+li {
+    padding-left: 0;
+    list-style-position: inside
+}
